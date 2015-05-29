@@ -1,0 +1,14 @@
+# Site settings
+title: Placeholder Title
+email: rspijker@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Let me see where this ends up.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://RoelofSpijker.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  RoelofSpijker
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
